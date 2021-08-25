@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "plugin:cypress/recommended",
+    "plugin:chai-friendly/recommended"
+  ],
+  "plugins": [
+    "cypress",
+    "chai-friendly"
+  ],
+  "rules": {
+    "max-line-length": false
+  }
+}
